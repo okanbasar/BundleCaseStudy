@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="Case 2 - Client socket app is done!">
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToMongoDBApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToSQLApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/SocketClientApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/SocketServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/connectors/ActiveMQConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/connectors/ActiveMQProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/models/RandomData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/utils/Utils.java" afterDir="false" />
+    <list default="true" id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="Case 2 - MQ-&gt;MongoDB consumer app is done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
@@ -174,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708089565478</updated>
-      <workItem from="1708089566882" duration="29008000" />
+      <workItem from="1708089566882" duration="29654000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -192,7 +182,39 @@
       <option name="project" value="LOCAL" />
       <updated>1708197222269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Case 2 - Socket client app is done!">
+      <option name="closed" value="true" />
+      <created>1708197993085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708197993085</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Case 2 - Socket server app is done!">
+      <option name="closed" value="true" />
+      <created>1708198052774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708198052774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Case 2 - MQ-&gt;SQL consumer app is done!">
+      <option name="closed" value="true" />
+      <created>1708198117297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708198117297</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Case 2 - MQ-&gt;MongoDB consumer app is done!">
+      <option name="closed" value="true" />
+      <created>1708198136332</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708198136332</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +224,11 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Case 1 is done!" />
     <MESSAGE value="Case 2 - Client socket app is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Case 2 - Client socket app is done!" />
+    <MESSAGE value="Case 2 - Socket client app is done!" />
+    <MESSAGE value="Case 2 - Socket server app is done!" />
+    <MESSAGE value="Case 2 - MQ-&gt;SQL consumer app is done!" />
+    <MESSAGE value="Case 2 - MQ-&gt;MongoDB consumer app is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case 2 - MQ-&gt;MongoDB consumer app is done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
