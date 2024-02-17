@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/caseone/CaseOneMain.java" afterDir="false" />
+    <list default="true" id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="Case 2 - Client socket app is done!">
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToMongoDBApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToSQLApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/SocketClientApp.java" afterDir="false" />
@@ -27,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/constants/Constants.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/models/RandomData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,12 +174,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708089565478</updated>
-      <workItem from="1708089566882" duration="28488000" />
+      <workItem from="1708089566882" duration="29008000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1708197162096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708197162096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Case 1 is done!">
+      <option name="closed" value="true" />
+      <created>1708197222269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708197222269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Case 1 is done!" />
+    <MESSAGE value="Case 2 - Client socket app is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case 2 - Client socket app is done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
