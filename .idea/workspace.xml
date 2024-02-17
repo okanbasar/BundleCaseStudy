@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/caseone/CaseOneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToMongoDBApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/ActiveMQToSQLApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/SocketClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/SocketServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/connectors/ActiveMQConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/connectors/ActiveMQProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/models/RandomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/bundle/casestudy/casetwo/utils/Utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cS0F17ozOO7GS4xGIvtSFrBVjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build BundleCaseStudy.executor": "Run",
+    "Gradle.BundleCaseStudy [:ActiveMQToMongoDBApp.main()].executor": "Run",
+    "Gradle.BundleCaseStudy [:ActiveMQToSQLApp.main()].executor": "Run",
+    "Gradle.BundleCaseStudy [:CaseOne.main()].executor": "Run",
+    "Gradle.BundleCaseStudy [:CaseOneMain.main()].executor": "Run",
+    "Gradle.BundleCaseStudy [:Main.main()].executor": "Debug",
+    "Gradle.BundleCaseStudy [:SocketClient.main()].executor": "Debug",
+    "Gradle.BundleCaseStudy [:SocketServer.main()].executor": "Debug",
+    "Gradle.BundleCaseStudy [:SocketServerApp.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/fulya/IdeaProjects/BundleCaseStudy/src/main/java/com/trendyol/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app.bundle.casestudy.casetwo.connectors" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ActiveMQToSQLApp">
+    <configuration name="ActiveMQToMongoDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.bundle.casestudy.casetwo.ActiveMQToMongoDBApp" />
+      <module name="BundleCaseStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.bundle.casestudy.casetwo.connectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveMQToSQLApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.bundle.casestudy.casetwo.ActiveMQToSQLApp" />
+      <module name="BundleCaseStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.bundle.casestudy.casetwo.connectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.bundle.casestudy.casetwo.Main" />
+      <module name="BundleCaseStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.bundle.casestudy.casetwo.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.bundle.casestudy.casetwo.SocketClientApp" />
+      <module name="BundleCaseStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.bundle.casestudy.casetwo.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.bundle.casestudy.casetwo.SocketServerApp" />
+      <module name="BundleCaseStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.bundle.casestudy.casetwo.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActiveMQToSQLApp" />
+        <item itemvalue="Application.ActiveMQToMongoDBApp" />
+        <item itemvalue="Application.SocketClientApp" />
+        <item itemvalue="Application.SocketServerApp" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c63c4a-87cf-466d-9ade-6c7c98f378a4" name="Changes" comment="" />
+      <created>1708089565478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708089565478</updated>
+      <workItem from="1708089566882" duration="28488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/app/bundle/casestudy/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
