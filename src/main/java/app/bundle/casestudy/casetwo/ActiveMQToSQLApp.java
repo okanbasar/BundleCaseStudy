@@ -27,7 +27,7 @@ public class ActiveMQToSQLApp {
                 if (message instanceof TextMessage textMessage) {
                     String data = textMessage.getText();
                     RandomData randomData = new RandomData(data);
-
+                    insertDataIntoSQLDatabase(dbConnection, randomData);
                     System.out.println("Data is inserted to SQL table: " + randomData);
                 }
             }
